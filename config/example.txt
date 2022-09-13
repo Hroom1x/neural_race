@@ -1,0 +1,4 @@
+{
+'fullscreen': [False, [True, False]]
+'resolution': ['1280x720', ['1280x720', '1920x1080', '600x400']]
+}
